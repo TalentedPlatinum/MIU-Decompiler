@@ -64,7 +64,7 @@ If you find any bugs/errors or issues with the Decompiler you can send an issue 
 
 If you wanna replace a prefab with your own prefab (It needs an IgnoreObject component) instead of the checkerboard cube, you just need to place the prefab file inside your MIU/Internal/Resources and then Decompile the level again
 
-If Unity asks you to update the API, always chose the No Thanks option. It may break the decompiler
+If Unity asks you to update the API, always choose the No Thanks option. It may break the decompiler
 
 ## Current TODO List
 
