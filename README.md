@@ -44,7 +44,7 @@ Or whatever location you chose for the game\
 Just press Open and the decompiler will do its job and open up the level for you in Unity\
 ![Alt text](https://cdn.discordapp.com/attachments/365772775832420353/870762581814575124/unknown.png)
 
-When it Decompiling CloudClusterSky1,2,3 it will just not properly decompile them, therefore there is a button to do this. As far as we have tested it only affects certain official levels, Such as Bumper Invasion or Archiarchy.
+When its Decompiling CloudClusterSky1,2,3 it will just not properly decompile them, therefore there is a button to do this. As far as we have tested it only affects certain official levels, Such as Bumper Invasion or Archiarchy.
 
 ![Alt text](https://cdn.discordapp.com/attachments/365772775832420353/870762587892092938/unknown.png)
 
