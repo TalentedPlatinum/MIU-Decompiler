@@ -37,7 +37,7 @@ You can drag around this window and place it wherever you want.\
 To Decompile a level you just wanna press the button and select a .level file. \
 Note that all MIU Classic Official Levels can be found in
 
->“C:\Program Files (x86)\Steam\steamapps\common\Marble It Up!\Marble It Up_Data\StreamingAssets\Levels”\
+>“C:\Program Files (x86)\Steam\steamapps\common\Marble It Up!\Marble It Up_Data\StreamingAssets\Levels”
 
 Or whatever location you chose for the game\
 ![Alt text](https://cdn.discordapp.com/attachments/365772775832420353/870762574118002738/unknown.png)\
@@ -72,6 +72,8 @@ If you wanna replace a prefab with your own prefab (It needs an IgnoreObject com
 
 > Advanced settings config file
 >   - DTX1/5 Settings included
+
+## Good quotes
 
 As a wise man once said:
 
