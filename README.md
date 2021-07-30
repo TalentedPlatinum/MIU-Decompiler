@@ -10,10 +10,10 @@ With this tool you can choose any .level file and decompile it back into a unity
 This tool was created over the period of a week and later designed for public release.
 
 ## How To Install
-(Github screenshots of download)
 
 Download the MIUDecompiler.zip file from the Github\
-Extract the file
+Extract the file\
+![Alt text](https://cdn.discordapp.com/attachments/777621998725234719/870768702742732850/unknown.png)
 
 Now go into your Unity Project\
 Click on Assets\
