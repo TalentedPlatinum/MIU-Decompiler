@@ -75,6 +75,8 @@ If Unity asks you to update the API, always choose the No Thanks option. It may 
 > Advanced settings config file
 >   - DTX1/5 Settings included
 
+> Add "Fill01-D Med" Material to Unlisted Materials
+
 ## Good quotes
 
 As a wise man once said:
