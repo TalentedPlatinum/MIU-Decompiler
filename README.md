@@ -1,6 +1,6 @@
 # MIU-DECOMPILER
 Programmer & Initial Tester: TalentedPlatinum\
-Tester: VilleOlof
+Tester: VilleOlof\
 Tester: Anson
 
 ## Introduction
