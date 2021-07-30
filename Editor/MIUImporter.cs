@@ -11,7 +11,7 @@ using SimpleJSON;
 using System.Runtime.InteropServices;
 
 // Modified Version
-// Version 0.9.9.7922
+// Version 1.0.0
 // Author: TalentedPlatinum (aka god)
 
 public static class TextureHelperClass
