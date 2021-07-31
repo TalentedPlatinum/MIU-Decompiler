@@ -68,7 +68,7 @@ If Unity asks you to update the API, always choose the No Thanks option. It may 
 
 ## Current TODO List
 
-Check the Wiki tab in github for whats coming next!
+Check the Wiki tab in github for what's coming next!
 
 ## Good quotes
 
