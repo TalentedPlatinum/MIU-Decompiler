@@ -68,14 +68,7 @@ If Unity asks you to update the API, always choose the No Thanks option. It may 
 
 ## Current TODO List
 
-> MIU Search for materials in two searches, prioritizing MIU folder
-
-> Bringer Of Lightmaps Update Lightmaps Inspector Option
-
-> Advanced settings config file
->   - DTX1/5 Settings included
-
-> Add "Fill01-D Med" Material to Unlisted Materials
+Check the Wiki tab in github for whats coming next!
 
 ## Good quotes
 
